@@ -1,7 +1,7 @@
->**Note**: This is my test repository for a Udacity nanodegree Python programming for Data Science.
+>**Note**: This is my test repository==>documentation branch for a Udacity nanodegree Python programming for Data Science.
 
 ### Date created
-18-Jun-2023.
+24-Jun-2023.
 
 ### Project Title
 Programming for Data Science with Python
@@ -17,4 +17,5 @@ Washington.csv
 
 ### Credits
 Great learning portal: https://learn.udacity.com/.
+Usefull docs for VS Code: https://github.com/coder/code-server/blob/main/docs/README.md
 
