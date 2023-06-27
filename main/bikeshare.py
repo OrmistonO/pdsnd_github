@@ -86,16 +86,16 @@ def time_stats(df):
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
-    # TO DO: display the most common month
+    # display the most common month
     df['Start Time'] = pd.to_datetime(df['Start Time'])  
     df['month'] = df['Start Time'].dt.month_name()
     popular_month = df['month'].mode()[0]
     print('The Most popular', popular_month)
-    # TO DO: display the most common day of week
+    # display the most common day of week
     df['day_of_week'] = df['Start Time'].dt.day_name()
     popular_day = df['day_of_week'].mode()[0]
     print('The Most common day of week:', popular_day)
-    # TO DO: display the most common start hour
+    # display the most common start hour
     df['hour'] = df['Start Time'].dt.hour
     popular_hour = df['hour'].mode() 
     print('Most Frequent Start Hour:', popular_hour)
@@ -108,13 +108,13 @@ def station_stats(df):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
-    # TO DO: display most commonly used start station
+    # display most commonly used start station
     popular_start_station = df['Start Station'].mode()
     print('Most Frequent Start Station: ', popular_start_station)
-    # TO DO: display most commonly used end station
+    # display most commonly used end station
     popular_end_station = df['End Station'].mode()
     print('Most Frequent End Station: ', popular_end_station)
-    # TO DO: display most frequent combination of start station and end station trip
+    # display most frequent combination of start station and end station trip
     popular_combination = (df['Start Station'] + df['End Station']).mode()
     print('Most frequent combination of start station and end station trip: ', popular_combination)
     
