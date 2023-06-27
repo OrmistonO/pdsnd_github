@@ -18,8 +18,8 @@ Washington.csv
 ### Credits
 Great learning portal: https://learn.udacity.com/.
 Good examples of refactoring Python code: https://learn.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2022
+
 ### Requirements
 See requirements for minimum specs, as well as instructions on how to set up a Google VM on which you can install code-server:
 https://coder.com/docs/code-server/latest/requirements
 Markdown Guide from GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
