@@ -17,4 +17,5 @@ Washington.csv
 
 ### Credits
 Great learning portal: https://learn.udacity.com/.
+Good examples of refactoring Python code: https://learn.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2022
 
