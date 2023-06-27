@@ -17,8 +17,7 @@ Washington.csv
 
 ### Credits
 Great learning portal: https://learn.udacity.com/.
-Usefull docs for VS Code: https://github.com/coder/code-server/blob/main/docs/README.md
-
+Good examples of refactoring Python code: https://learn.microsoft.com/en-us/visualstudio/python/refactoring-python-code?view=vs-2022
 ### Requirements
 See requirements for minimum specs, as well as instructions on how to set up a Google VM on which you can install code-server:
 https://coder.com/docs/code-server/latest/requirements
