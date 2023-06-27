@@ -1,7 +1,7 @@
 >**Note**: This is my test repository==>documentation branch for a Udacity nanodegree Python programming for Data Science.
 
 ### Date created
-24-Jun-2023.
+18-Jun-2023.
 
 ### Project Title
 Programming for Data Science with Python
@@ -18,9 +18,10 @@ Washington.csv
 ### Credits
 Great learning portal: https://learn.udacity.com/.
 Usefull docs for VS Code: https://github.com/coder/code-server/blob/main/docs/README.md
-Markdown Guide from GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 
 ### Requirements
 See requirements for minimum specs, as well as instructions on how to set up a Google VM on which you can install code-server:
 https://coder.com/docs/code-server/latest/requirements
+Markdown Guide from GitHub: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
