@@ -1,4 +1,4 @@
->**Note**: This is my test repository==>documentation branch for a Udacity nanodegree Python programming for Data Science.
+>**Note**: This is my test repository for a Udacity nanodegree Python programming for Data Science.
 
 ### Date created
 18-Jun-2023.
@@ -18,7 +18,6 @@ Washington.csv
 ### Credits
 Great learning portal: https://learn.udacity.com/.
 Usefull docs for VS Code: https://github.com/coder/code-server/blob/main/docs/README.md
-
 
 ### Requirements
 See requirements for minimum specs, as well as instructions on how to set up a Google VM on which you can install code-server:
